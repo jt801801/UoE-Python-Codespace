@@ -1,1 +1,3 @@
 
+conda activate base
+/opt/conda/bin/python /workspaces/UoE-Python-Codespace/LECTURES/Session01/task1.py
